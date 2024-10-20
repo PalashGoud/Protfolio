@@ -3,6 +3,8 @@ import {
   paralax,
   boat,
   miniproject,
+  fresh,
+
 
 } from "../assets/images";
 
@@ -136,14 +138,24 @@ export const projects = [
     theme: "btn-back-black",
     name: "MiniProjects",
     description: "MiniProjects like To-DO-LIST, Clock, Rock-Paper, Tick-tack-toe, Snack& ladder,Calculator ,Crousal etc..",
-    link: "https://palashminiprojects.netlify.app/",
+    link: "https://mini-projects-palash-gouds-projects.vercel.app/",
   },
   {
     iconUrl: paralax,
-    theme: "btn-back-green",
+    theme: "btn-back-red",
     name: "Paralax",
     description: "Parallax scrolling effect using html & Css",
     link: "https://parallax-adventure-palash.netlify.app/",
   },
+
+  {
+    iconUrl: fresh,
+    theme: "btn-back-green",
+    name: "Fresh Organic",
+    description: "Fresh Organic is an online organic market built with HTML, CSS, and Bootstrap. Explore our vibrant marketplace featuring fresh, seasonal veggies and fruits, carefully curated for healthy living.",
+    link: "https://pg-fresh-organic.netlify.app/",
+  },
+
+ 
  
 ];
