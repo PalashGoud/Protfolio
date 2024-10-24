@@ -124,7 +124,7 @@ export const projects = [
     theme: "btn-back-red",
     name: "boAt",
     description: "Craft a dynamic  e-commerce application like boat. Users can easily browse and purchase items, Admins can effortlessly manage products for streamlined operations",
-    link: "https://palash-boat-ecommerce.netlify.app/",
+    link: "https://boat-website-pg.vercel.app/",
   },
   {
     iconUrl: slider,
