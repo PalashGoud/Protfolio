@@ -4,6 +4,7 @@ import {
   boat,
   miniproject,
   fresh,
+  solar,
 
 
 } from "../assets/images";
@@ -128,10 +129,17 @@ export const projects = [
   },
   {
     iconUrl: slider,
-    theme: "btn-back-black",
+    theme: "btn-back-blue",
     name: "Slider",
     description: "Moder slider using html, css and js",
     link: "https://slider-palash.netlify.app/",
+  },
+  {
+    iconUrl: solar,
+    theme: "btn-back-black",
+    name: "Solar Explorer",
+    description: "Solar explorer built with HTML, CSS",
+    link: "https://solar-explorer-pg.vercel.app/",
   },
   {
     iconUrl: miniproject,
