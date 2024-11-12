@@ -5,6 +5,8 @@ import boat from "./boat.png";
 import miniproject from "./miniproject.png";
 import fresh from "./fresh.png";
 import solar from "./solar.png";
+import portronics from "./portronics.png";
+import glint from "./glint.png";
 
 export {
   miniproject,
@@ -13,5 +15,6 @@ export {
   paralax,
   fresh,
   solar,
-  
+  portronics,
+  glint,
 };

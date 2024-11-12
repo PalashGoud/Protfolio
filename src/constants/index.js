@@ -5,6 +5,8 @@ import {
   miniproject,
   fresh,
   solar,
+  portronics,
+  glint,
 
 
 } from "../assets/images";
@@ -128,6 +130,13 @@ export const projects = [
     link: "https://boat-website-pg.vercel.app/",
   },
   {
+    iconUrl: miniproject,
+    theme: "btn-back-black",
+    name: "MiniProjects",
+    description: "MiniProjects like To-DO-LIST, Clock, Rock-Paper, Tick-tack-toe, Snack& ladder,Calculator ,Crousal etc..",
+    link: "https://mini-projects-palash-gouds-projects.vercel.app/",
+  },
+  {
     iconUrl: slider,
     theme: "btn-back-blue",
     name: "Slider",
@@ -141,13 +150,17 @@ export const projects = [
     description: "Solar explorer built with HTML, CSS",
     link: "https://solar-explorer-pg.vercel.app/",
   },
+  
+
+
   {
-    iconUrl: miniproject,
-    theme: "btn-back-black",
-    name: "MiniProjects",
-    description: "MiniProjects like To-DO-LIST, Clock, Rock-Paper, Tick-tack-toe, Snack& ladder,Calculator ,Crousal etc..",
-    link: "https://mini-projects-palash-gouds-projects.vercel.app/",
+    iconUrl: portronics,
+    theme: "btn-back-orange",
+    name: "Portronics-E-commerce",
+    description: "A full-stack e-commerce app like Portronics with a complete backend. Users can browse, add items to their cart, and purchase easily. Admins have a dashboard to manage products and orders smoothly.",
+    link: "https://github.com/PalashGoud/Portronics-web",
   },
+
   {
     iconUrl: paralax,
     theme: "btn-back-red",
@@ -157,13 +170,19 @@ export const projects = [
   },
 
   {
+    iconUrl: glint,
+    theme: "btn-back-black",
+    name: "Glint-buisness-web",
+    description: "Glint is a modern website designed for creatives like designers, agencies, and freelancers. Built with clean HTML, CSS, JavaScript, and Tailwind CSS.",
+    link: "https://glint-buisness-pg.vercel.app/",
+  },
+
+  {
     iconUrl: fresh,
     theme: "btn-back-green",
     name: "Fresh Organic",
     description: "Fresh Organic is an online organic market built with HTML, CSS, and Bootstrap. Explore our vibrant marketplace featuring fresh, seasonal veggies and fruits, carefully curated for healthy living.",
     link: "https://pg-fresh-organic.netlify.app/",
   },
-
- 
- 
+  
 ];
